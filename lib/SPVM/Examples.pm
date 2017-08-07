@@ -8,7 +8,7 @@ package SPVM::Examples;
 
 =head1 DESCRIPTION
 
-This distribution contains example *.svpm modules.
+This distribution contains example C<*.spvm> modules.
 
 
 =head1 SEE ALSO

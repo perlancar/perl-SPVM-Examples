@@ -1,6 +1,10 @@
 package SPVM::Examples;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;
